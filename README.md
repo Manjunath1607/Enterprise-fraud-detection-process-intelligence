@@ -8,6 +8,7 @@ The project focuses on reducing missed fraud (false negatives) by identifying su
 
 Traditional fraud detection systems rely heavily on static thresholds, causing behavioral fraud at scale to bypass early detection. The objective was to uncover systemic fraud leakage and redesign detection logic for earlier risk stratification and stability.
 
+
 🧠 Approach & Methodology
 
 Applied Lean Six Sigma (DMAIC) integrated with process intelligence concepts
@@ -17,6 +18,7 @@ Analyzed event-level transaction behavior to reconstruct actual execution patter
 Performed statistical validation to distinguish fraud vs non-fraud behavior
 
 Designed risk-based control logic with adaptive escalation
+
 
 📊 Key Outcomes
 
@@ -29,6 +31,7 @@ Improved fraud detection accuracy from ~85% to 96.3%
 Reduced post-improvement variation with all metrics remaining within control limits
 
 Established predictive-ready monitoring and governance controls
+
 
 🛠 Techniques & Capabilities Demonstrated
 
@@ -44,6 +47,7 @@ Risk stratification & escalation design
 
 Note: Synthetic data was used to simulate large-scale transaction behavior while preserving analytical rigor.
 
+
 🚀 Future Enhancement Roadmap
 
 Augment rule-based logic with supervised ML risk scoring
@@ -53,6 +57,7 @@ Extend framework to real-time transaction streams
 Integrate dashboards for continuous fraud monitoring
 
 Benchmark detection effectiveness against industry KPIs
+
 
 📌 About This Project
 
